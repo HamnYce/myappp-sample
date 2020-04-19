@@ -1,2 +1,2 @@
-# my app
-following a git tutorial online
+# My app
+Following a git tutorial on youtube :)
