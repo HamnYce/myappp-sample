@@ -1,9 +1,1 @@
-<html>
-    <head>
-
-        <title> My app</title>
-        <body>
-            this is my app?
-        </body>
-    </head>
-</html>
+console.log('hello')
